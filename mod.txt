@@ -11,7 +11,8 @@
         "identifier": "pd2-brokentweaks",
         "host": {
              "patchnotes": "https://github.com/Creativious/payday-brokentweaks",
-             "meta": 
+             "meta": "https://raw.githubusercontent.com/Creativious/payday-brokentweaks/master/updater.json",
+             "download": "https://github.com/Mayzone/The-Cooker/archive/refs/heads/master.zip"
              }
         }
     ],

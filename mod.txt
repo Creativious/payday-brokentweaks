@@ -12,7 +12,7 @@
         "host": {
              "patchnotes": "https://github.com/Creativious/payday-brokentweaks",
              "meta": "https://raw.githubusercontent.com/Creativious/payday-brokentweaks/master/updater.json",
-             "download": "https://github.com/Mayzone/The-Cooker/archive/refs/heads/master.zip"
+             "download": "https://github.com/Creativious/payday-brokentweaks/raw/main/archive/pd2-brokentweaks.zip"
              }
         }
     ],

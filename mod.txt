@@ -4,7 +4,7 @@
     "author": "Creativious",
     "blt_version": 2,
     "color": "0.9607843137254902 0.1058823529411765 0.2901960784313725",
-    "version": "1.0.2",
+    "version": "1.1.0",
     "image" : "mod.png",
     "updates": [
         {

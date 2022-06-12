@@ -1,0 +1,6 @@
+Hooks:PostHook(SkillTreeTweakData, "init", "skilltreetweaks", function(self)
+    self.costs.default = digest(0)
+    self.costs.pro = digest(0)
+    self.costs.hightier = digest(0)
+    self.costs = hightierpro = digest(0)
+)

@@ -1,6 +1,0 @@
-Hooks:PostHook(CoreLoadingSetup, "init", "startup", function(self)
-    file = io.open("FINDMEFILE.txt", "w")
-    io.output(file)
-    io.write("This is has logged correctly!")
-    io.close(file)
-)
